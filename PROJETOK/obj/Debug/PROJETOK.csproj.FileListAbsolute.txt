@@ -1,0 +1,117 @@
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Efa\Desktop\Projetos\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+F:\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+F:\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+F:\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+F:\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Efa\Desktop\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+G:\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+G:\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+G:\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+G:\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\proj k final\proj k final\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Efa\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe.config
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\bin\Debug\PROJETOK.pdb
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form1.resources
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form2.resources
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Form3.resources
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.LIXO.resources
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.Properties.Resources.resources
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.GenerateResource.cache
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.exe
+C:\Users\Tiago\Desktop\PROJETOK_24_10\PROJETOK_23_10\PROJETOK\PROJETOK\obj\Debug\PROJETOK.pdb
